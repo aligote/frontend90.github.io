@@ -1,0 +1,12 @@
+@font-face {
+font-family: "MgOpenModata";
+src: url("../fonts/MgOpenModata.ttf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
+@font-face {
+font-family: "Myriad Pro";
+src: url("../fonts/Myriad Pro.otf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
